@@ -47,6 +47,10 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+  
   - name: Angular
     web_url: https://github.com/topics/angular
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
@@ -62,3 +66,7 @@ topics:
   - name: Express.js
     web_url: https://github.com/topics/express
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png
+
+  - name: Microsoft SQL Server
+    web_url: https://github.com/topics/sql-server
+    image_url: https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png
